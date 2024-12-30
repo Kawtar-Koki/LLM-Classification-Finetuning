@@ -1,11 +1,12 @@
 # LLM Classification Finetuning
 
 ## Table of Contents 
-- [Completed by](#completed_by)
+- [Completed by](#completedby)
 - [Abstract](#abstract)
 - [Introduction](#introduction)
-- [Related Works](#related_works)
-- [Final Result](#final_result)
+- [Related Works](#relatedworks)
+- [Final Result](#finalresult)
+- [Kaggle Competition](#KaggleCompetition)
 - [Conclusion](#conclusion)
 - [Sources](#sources)
 
@@ -46,6 +47,10 @@ traditional methods allow us to cover most of the basic tasks with adequate accu
 <img src="https://github.com/user-attachments/assets/755380d7-4717-491b-9e5e-405583f52750">
 <img src="https://github.com/user-attachments/assets/6691d1f8-7e85-4fe3-b33a-087225d0afd6">
 <img src="https://github.com/user-attachments/assets/7e72e46f-38e5-46c2-9893-881c5d89dafd">
+
+## KAGGLE COMPETITION
+
+[Model Predictions in Kaggle](https://www.kaggle.com/code/kawtarbenyahya/llm-classification-benyahya-kawtar)
 
 ## CONCLUSION
 
